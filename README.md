@@ -1,4 +1,4 @@
-# Leetcode-olutions
+# Leetcode-solutions
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
