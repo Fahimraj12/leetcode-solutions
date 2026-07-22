@@ -18,7 +18,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Fahimraj12/leetcode-solutions/tree/master/0002-add-two-numbers) |
-## Math
+### Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Fahimraj12/leetcode-solutions/tree/master/0002-add-two-numbers) |
