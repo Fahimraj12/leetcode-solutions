@@ -43,7 +43,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fahimraj12/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-## Binary Search
+### Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Fahimraj12/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
