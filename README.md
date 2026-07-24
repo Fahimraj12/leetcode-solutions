@@ -51,7 +51,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Fahimraj12/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
-## Two Pointers
+### Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fahimraj12/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
