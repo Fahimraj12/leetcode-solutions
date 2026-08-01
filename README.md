@@ -1,8 +1,7 @@
 # Leetcode-Solutions
 <!---LeetCode Topics Start-->
 
-## LeetCode Topics-wise:
-
+## LeetCode Topics-Wise:
 ### Array
 |  |
 | ------- |
