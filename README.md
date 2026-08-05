@@ -2,6 +2,7 @@
 <!---LeetCode Topics Start-->
 ## Leetcode Question List: 
 1. Two Sum
+2. Add two numbers 
 ## LeetCode Topics-Wise:
 ### Array
 |  |
