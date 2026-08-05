@@ -1,7 +1,7 @@
 # Leetcode-Solutions
 <!---LeetCode Topics Start-->
 ## Leetcode Question List: 
-- 1. Two Sum
+1. Two Sum
 ## LeetCode Topics-Wise:
 ### Array
 |  |
