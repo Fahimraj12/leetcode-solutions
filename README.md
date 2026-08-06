@@ -5,7 +5,7 @@
 2. Add two numbers 
 3. Longest substring without repeating character
 4. Median of Two Sorted Array
-5. Longest
+5. Longest Palindrome Sequence
 ## LeetCode Topics-Wise:
 ### Array
 |  |
