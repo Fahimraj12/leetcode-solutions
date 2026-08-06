@@ -3,7 +3,7 @@
 ## Leetcode Question List: 
 1. Two Sum
 2. Add two numbers 
-3. longest substring without repeating character
+3. Longest substring without repeating character
 4. Median of Two Sorted Array
 ## LeetCode Topics-Wise:
 ### Array
