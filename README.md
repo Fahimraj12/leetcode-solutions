@@ -6,7 +6,7 @@
 3. Longest substring without repeating character
 4. Median of Two Sorted Array
 5. Longest Palindrome Sequence
-6. 
+6. ZigZag 
 ## LeetCode Topics-Wise:
 ### Array
 |  |
