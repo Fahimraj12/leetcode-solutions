@@ -9,6 +9,7 @@
 6. ZigZag Conversion
 7. Reverse Integer
 8. String to integer
+9. Palindrome
 ## LeetCode Topics-Wise:
 ### Array
 |  |
