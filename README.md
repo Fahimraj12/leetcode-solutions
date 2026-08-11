@@ -8,7 +8,7 @@
 5. Longest Palindrome Sequence
 6. ZigZag Conversion
 7. Reverse Integer
-8. String to
+8. String to integer
 ## LeetCode Topics-Wise:
 ### Array
 |  |
