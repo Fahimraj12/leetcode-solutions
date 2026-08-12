@@ -10,7 +10,8 @@
 7. Reverse Integer
 8. String to integer
 9. Palindrome Number
-10. 
+10. Regular
+11. 
 ## LeetCode Topics-Wise:
 ### Array
 |  |
