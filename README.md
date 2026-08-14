@@ -12,6 +12,7 @@
 9. Palindrome Number
 10. Regular Expression
 11. Container with most water
+12. Integer
 ## LeetCode Topics-Wise:
 ### Array
 |  |
