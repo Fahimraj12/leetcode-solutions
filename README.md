@@ -14,8 +14,9 @@
 11. Container with most water
 12. Integer to roman
 13. roman to Intger
-14.  jf
-15.  
+14.  
+15.  ns
+16.  
 
 ## LeetCode Topics-Wise:
 ### Array
